@@ -22,3 +22,6 @@
 * 데이터 출처 : https://www.data.go.kr/dataset/15012890/standard.do
 * 사용 데이터
     * 전국도시공원표준데이터
+    
+#### PyCon KR 2018 튜토리얼 노트북
+* https://goo.gl/x8kasp
