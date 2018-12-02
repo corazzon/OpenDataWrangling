@@ -23,5 +23,13 @@
 * 사용 데이터
     * 전국도시공원표준데이터
     
+## [서울시 자전거 따릉이 대여 분석](seoul-bike)
+* 년/월/일/요일/시간 별 대여현황 분석
+* 대여소 위치 크롤링으로 수집
+* 대여소 위치 Folium으로 시각화 하기
+* 데이터 출처 : 
+	* 대여 정보 : http://data.seoul.go.kr/dataList/datasetView.do?infId=OA-15182&srvType=F&serviceKind=1&currentPageNo=1
+	* 대여소 정보 : https://www.bikeseoul.com/app/station/moveStationSearchView.do?currentPageNo=
+	
 #### PyCon KR 2018 튜토리얼 노트북
 * https://goo.gl/x8kasp
