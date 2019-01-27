@@ -31,5 +31,12 @@
 	* 대여 정보 : http://data.seoul.go.kr/dataList/datasetView.do?infId=OA-15182&srvType=F&serviceKind=1&currentPageNo=1
 	* 대여소 정보 : https://www.bikeseoul.com/app/station/moveStationSearchView.do?currentPageNo=
 	
+## [서울시 업무추진비 부서별 집행 현황 분석](seoul-jmt)
+* 업무추진비 데이터 병합 및 전처리 
+* 업무추진비 사용처 워드클라우드로 그리기 
+* 데이터 출처 : 
+	* [ 서울시 업무추진비 | 부서별 집행 현황 | 서울시 정보소통광장(정보공개)](http://opengov.seoul.go.kr/expense)
+	* github : https://github.com/seoul-opengov/opengov 
+
 #### PyCon KR 2018 튜토리얼 노트북
 * https://goo.gl/x8kasp
