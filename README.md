@@ -27,13 +27,15 @@
 
 :tv: [[5/7] 서울 구별 이디야 매장 분포와 밀집도를 GeoJSON을 활용하여 folium의 choropleth 와 CircleMarker 로 표현하기](https://youtu.be/CyCrWekgQrs)
 
-:tv: [[6/7] Pandas의 Pandas 의 reshaping data 활용하여 스타벅스, 이디야 매장수 비교하기, 구별 위도/경도 평균 구하기](https://youtu.be/YKESreqAwlc)
+:tv: [[6/7] Pandas의 reshaping data 활용하여 스타벅스, 이디야 매장수 비교하기, 구별 위도/경도 평균 구하기](https://youtu.be/YKESreqAwlc)
 
 :tv: [[7/7] Pandas의 pivot_table로 구한 데이터를 Folium의 CircleMaker로 매장수 크기를 반영해 그리기](https://youtu.be/IwxbRP3mlTU)
 
 
 
-## [프랜차이즈 분석(배스킨라빈스와 던킨도너츠, 뚜레쥬르와 파리바게뜨 매장위치 분석 )](store_location_by_folium.ipynb)
+## [프랜차이즈 분석](store_location_by_folium.ipynb)
+* 배스킨라빈스와 던킨도너츠 매장위치 분석
+* 뚜레쥬르와 파리바게뜨 매장위치 분석
 * 데이터 출처 : [https://www.data.go.kr/dataset/15012005/fileData.do](https://www.data.go.kr/dataset/15012005/fileData.do)
 
 ### 튜토리얼 비디오
@@ -68,7 +70,7 @@
 
 :tv: [[2/3] 상가(상권)정보로 위경도 정보 활용하기, 판다스로 결측치 분석하기, ggplot 문법으로 시각화하기](https://youtu.be/XF1_4RCRsGA) 
 
-:tv: [[3/3] 상가(상권)정보로 위경도 정보 활용하기, 판다스로 결측치 분석하기, ggplot 문법으로 시각화하기, 대분류, 중분류별(https://youtu.be/xo5UQA38q3M) 
+:tv: [[3/3] 상가(상권)정보로 위경도 정보 활용하기, 판다스로 결측치 분석하기, ggplot 문법으로 시각화하기, 대분류, 중분류별](https://youtu.be/xo5UQA38q3M) 
 
     
     
@@ -105,15 +107,15 @@
     
 ### 튜토리얼 비디오
 
-:tv: [[1/5] 파이썬 데이터 분석 - 전국 도시 공원 표준 데이터 불러오기, 요약하기](https://youtu.be/uJ6QO6jLBWA)
+:tv: [[1/5] 전국 도시 공원 표준 데이터 불러오기, 요약하기](https://youtu.be/uJ6QO6jLBWA)
 
-:tv: [[2/5] 파이썬 데이터 분석 - 주소 및 사용하지 않는 컬럼 결측치 처리](https://youtu.be/qbfCXbWMYXY)
+:tv: [[2/5] 주소 및 사용하지 않는 컬럼 결측치 처리](https://youtu.be/qbfCXbWMYXY)
 
-:tv: [[3/5] 파이썬 데이터 분석- ggplot(plotnine)시각화 지역별, 공원구분별 시각화](https://youtu.be/-SHIBg5DD1c)
+:tv: [[3/5] ggplot(plotnine)시각화 지역별, 공원구분별 시각화](https://youtu.be/-SHIBg5DD1c)
 
-:tv: [[4/5] 파이썬 데이터 분석 - 경기도 도시공원 Folium 으로 보기](https://youtu.be/FzYmL7nWSpc)
+:tv: [[4/5] 경기도 도시공원 Folium 으로 보기](https://youtu.be/FzYmL7nWSpc)
 
-:tv: [[5/5] 파이썬 데이터 분석 - 서울, 제주 도시공원 결측치, 이상치, 오류값 분석, Folium 으로 시각화](https://youtu.be/ijYneK1xkE0)
+:tv: [[5/5] 서울, 제주 도시공원 결측치, 이상치, 오류값 분석, Folium 으로 시각화](https://youtu.be/ijYneK1xkE0)
 
 
 
